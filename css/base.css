@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+:root {
+  /* Colores  Paleta principal , secundaria y neutros*/
+  /* Tipografia Fuentes, tamaños, pesos */
+  --fuente-principal: "Rubik", sans-serif;
+
+  --tamano-fuente-base: 16px;
+  --peso-fuente-normal: 400;
+  --peso-fuente-bold: 700;
+  /* Espaciados Margenes, paddings */
+  --espaciado-sm: 0.5rem;
+  --espaciado-md: 1rem;
+  --espaciado-lg: 2rem;
+  --ancho-maximo: 1200px;
+  /* Efectos sombras, border radius, transiciones */
+}
